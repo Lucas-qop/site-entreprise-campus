@@ -1,0 +1,61 @@
+body {
+    display: grid;
+    background-image: url(../blue.jpg);
+    background-size: 100%;
+}
+
+h1 {
+    color: antiquewhite;
+}
+
+header {
+    color: beige;
+    font-family: "Caesar Dressing", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 200%;
+    background-color: rgb(150,169,147);
+    border-radius: 20px;
+}
+
+#entete {
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+h2 {
+    color: bisque;
+}
+
+.cariste {
+    color: antiquewhite;
+}
+
+#parcours {
+    background-color: rgb(150,169,147);
+    color: rgb(6,27,40);
+}
+
+.container {
+    display: flex;
+    flex-direction: row-reverse;
+    font-weight: bold;
+}
+
+img {
+    border-radius:29px;
+    width: 250px;
+    height: 300px;
+}
+
+.forma {
+    background-color: #7d272e;
+}
+
+.plus {
+    background-color: #0169a3;
+}
+
+.hob {
+    background-color: #fff69f;
+}
