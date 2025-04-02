@@ -1,0 +1,64 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: #0a192f;
+}
+
+a {
+  color: #e6f1ff;
+  text-decoration: none;
+}
+
+/* ---back-home--- */
+
+.back-home-text {
+  font-size: 13px;
+  font-weight: 600;
+  margin-left: 1rem;
+  font-family: var(--Roboto);
+}
+
+/*------------------*/
+
+.title {
+  display: flex;
+  justify-content: center;
+  margin-top: 2rem;
+  font-size: 50px;
+  font-family: var(--Roboto);
+}
+
+.hobbie-name {
+  display: flex;
+  justify-content: center;
+  margin: 4rem;
+  font-size: 40px;
+  font-family: var(--BigShoulders);
+}
+
+.video-description {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 10rem 0 10rem 0;
+}
+
+iframe {
+  margin-left: 1rem;
+  box-shadow: 10px 10px;
+  border: 1px solid black;
+}
+
+.description {
+  width: 410px;
+  height: 400px;
+  letter-spacing: 2px;
+  border-radius: 15px;
+  display: flex;
+  align-items: center;
+  font-family: var(--Roboto);
+}
