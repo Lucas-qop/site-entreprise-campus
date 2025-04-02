@@ -1,5 +1,3 @@
 # Site Entreprise du Campus Numerique 
 
-Yo Lucien
-
-🐴
+Groupe Yoan / Bastien / Lucas
